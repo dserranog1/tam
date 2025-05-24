@@ -46,6 +46,7 @@ def load_data():
         dataset = pd.read_csv("assets/ames_dataset.csv")
         metrics = pd.read_csv("assets/model_metrics.csv")
         predictions = pd.read_csv("assets/model_predictions.csv")
+        dataset.drop(columns=["Order", "PID"], inplace=True)
         return dataset, metrics, predictions
     except FileNotFoundError as e:
         st.error(f"File not found: {e}")
