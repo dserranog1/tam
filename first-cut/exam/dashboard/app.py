@@ -5,6 +5,9 @@ import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
+import os
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # Set page config
 st.set_page_config(
@@ -43,9 +46,9 @@ def load_data():
     """Load all datasets"""
     try:
         # Load datasets
-        dataset = pd.read_csv("assets/ames_dataset.csv")
-        metrics = pd.read_csv("assets/model_metrics.csv")
-        predictions = pd.read_csv("assets/model_predictions.csv")
+        dataset = pd.read_csv(os.path.join(BASE_DIR, "assets", "ames_dataset.csv"))
+        metrics = pd.read_csv(os.path.join(BASE_DIR, "assets", "model_metrics.csv"))
+        predictions = pd.read_csv(os.path.join(BASE_DIR, "assets", "model_predictions.csv"))
         dataset.drop(columns=["Order", "PID"], inplace=True)
         return dataset, metrics, predictions
     except FileNotFoundError as e:
