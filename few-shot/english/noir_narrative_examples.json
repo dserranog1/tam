@@ -1,0 +1,92 @@
+[
+  {
+    "original": "The city was very hot in the afternoon.",
+    "rewritten": "It was a dry afternoon, and the sun lashed the city like a slap in the face.",
+    "style": "noir",
+    "source": "Chinatown"
+  },
+  {
+    "original": "I could tell people here weren't honest.",
+    "rewritten": "I could smell the lies in the air before I even stepped through the door.",
+    "style": "noir",
+    "source": "Chinatown"
+  },
+  {
+    "original": "She looked at me with deep and troubled eyes.",
+    "rewritten": "Her eyes were a stormy sea, hiding shipwrecks beneath the surface.",
+    "style": "noir",
+    "source": "Chinatown"
+  },
+  {
+    "original": "People here didn't trust each other.",
+    "rewritten": "In this town, trust was the most dangerous gamble of all.",
+    "style": "noir",
+    "source": "Chinatown"
+  },
+  {
+    "original": "I smoked and watched the smoke rise.",
+    "rewritten": "I lit a cigarette and watched the smoke curl up like a question I didn't want answered.",
+    "style": "noir",
+    "source": "Chinatown"
+  },
+  {
+    "original": "A woman entered my office.",
+    "rewritten": "The dame walked into my office, and I knew trouble wore a tailored suit.",
+    "style": "noir",
+    "source": "The Maltese Falcon"
+  },
+  {
+    "original": "He spoke kindly to me.",
+    "rewritten": "His words were smooth, but his eyes betrayed a hunger for more than wealth.",
+    "style": "noir",
+    "source": "The Maltese Falcon"
+  },
+  {
+    "original": "There was a small statue under a lamp.",
+    "rewritten": "The statue glinted under the dim light, promising fortune and ruin in equal measure.",
+    "style": "noir",
+    "source": "The Maltese Falcon"
+  },
+  {
+    "original": "It was raining lightly on the windows.",
+    "rewritten": "Rain tapped against the window like an impatient witness.",
+    "style": "noir",
+    "source": "The Maltese Falcon"
+  },
+  {
+    "original": "I made sure my revolver was ready.",
+    "rewritten": "I kept my hat on my head and my revolver by my side—priorities in this business.",
+    "style": "noir",
+    "source": "The Maltese Falcon"
+  },
+  {
+    "original": "She smiled at me.",
+    "rewritten": "She had the kind of smile that spelled disaster in bold letters.",
+    "style": "noir",
+    "source": "Double Indemnity"
+  },
+  {
+    "original": "They exchanged money quietly.",
+    "rewritten": "Money changed hands in silence, each bill a pact with the devil.",
+    "style": "noir",
+    "source": "Double Indemnity"
+  },
+  {
+    "original": "I followed her through the streets at night.",
+    "rewritten": "I followed her into the night, knowing that redemption was a luxury I couldn't afford.",
+    "style": "noir",
+    "source": "Double Indemnity"
+  },
+  {
+    "original": "I heard a distant train whistle.",
+    "rewritten": "The train whistle blew in the distance, a metronome for my regrets.",
+    "style": "noir",
+    "source": "Double Indemnity"
+  },
+  {
+    "original": "Everything came down to greed in the end.",
+    "rewritten": "In the end, it was greed that wrote the final line of our story.",
+    "style": "noir",
+    "source": "Double Indemnity"
+  }
+]
